@@ -1,0 +1,15 @@
+##########################################
+#                                        #
+#               Settings                 #
+#                                        #
+##########################################
+
+setup: 
+  token: "" # Find the token [https://discord.com/developers/applications]
+  status: "FiveM" # Set the status.
+  prefix: "." # Configurate the prefix of the bot.
+  embed: "#eb8888" # Set the Embed Color
+
+server: 
+  name: "Hampus Development" # Well, it is what it says, put your servers name.
+  serverIP_Port: "37.221.209.229:30120" # Set this to your servers IP including port.
